@@ -1,0 +1,4 @@
+
+- Colocar um botão, com a foto do vaporeon, soq eh impossivel clicar nele
+ (ele muda de posição sempre q o mouse chega perto)
+
